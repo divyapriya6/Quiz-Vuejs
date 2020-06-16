@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\start"
+		},
+		{
+			"path": "..\\..\\..\\TODO"
+		},
+		{
+			"path": "..\\..\\..\\d3chart"
+		},
+		{
+			"path": "..\\..\\..\\chartsample"
+		},
+		{
+			"path": "..\\..\\..\\line-chart"
+		},
+		{
+			"path": "..\\..\\..\\bar"
+		},
+		{
+			"path": "..\\..\\..\\angular8chartjs"
+		},
+		{
+			"path": "..\\..\\..\\datavisual"
+		},
+		{
+			"path": "..\\..\\..\\Dashboard"
+		},
+		{
+			"path": "..\\..\\..\\topbar"
+		},
+		{
+			"path": "..\\..\\..\\Images used in Prototype"
+		},
+		{
+			"path": "..\\..\\..\\quiz"
+		},
+		{
+			"path": "..\\..\\..\\adopt-pets"
+		}
+	],
+	"settings": {}
+}
